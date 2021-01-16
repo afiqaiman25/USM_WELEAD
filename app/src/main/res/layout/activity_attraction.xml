@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C6B8DF"
+    tools:context=".attraction">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Attraction Of USM"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="130dp"
+        android:layout_height="104dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="245dp"
+        android:layout_marginLeft="245dp"
+        android:layout_marginTop="54dp"
+        app:srcCompat="@drawable/stadiumusm" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="130dp"
+        android:layout_height="103dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/masjidusm" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="210dp"
+        android:layout_height="16dp"
+        android:layout_below="@id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-1dp"
+        android:gravity="center"
+        android:text="Masjid Khalid Al-Walid"
+        android:textSize="15sp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="121dp"
+        android:layout_height="104dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="245dp"
+        android:layout_marginLeft="245dp"
+        android:layout_marginTop="174dp"
+        app:srcCompat="@drawable/poolusm" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="132dp"
+        android:layout_height="106dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="298dp"
+        app:srcCompat="@drawable/dtspusm" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="131dp"
+        android:layout_height="107dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="245dp"
+        android:layout_marginLeft="245dp"
+        android:layout_marginTop="298dp"
+        app:srcCompat="@drawable/phsusm" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="176dp"
+        android:layout_height="16dp"
+        android:layout_below="@id/imageView2"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="-1dp"
+        android:gravity="center"
+        android:text="Stadium USM"
+        android:textSize="15sp"
+        android:layout_marginStart="230dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="202dp"
+        android:layout_height="27dp"
+        android:layout_below="@id/imageView3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="7dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="-4dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:text="Purple Republic"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="153dp"
+        android:layout_height="25dp"
+        android:layout_below="@id/imageView4"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="-7dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:text="Swimming pool USM"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="202dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView5"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:text="Dewan Tuanku Syed Putra"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="189dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView6"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:text="Perpustakaan Hamzah Sendut"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="132dp"
+        android:layout_height="106dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="456dp"
+        app:srcCompat="@drawable/klinikusm" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="141dp"
+        android:layout_height="108dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="245dp"
+        android:layout_marginLeft="245dp"
+        android:layout_marginTop="445dp"
+        app:srcCompat="@drawable/kafeusm" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView5"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="163dp"
+        android:gravity="center"
+        android:text="Pusat Sejahtera USM"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView6"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="155dp"
+        android:gravity="center"
+        android:text="Kafe Siswa USM"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="121dp"
+        android:layout_height="105dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="174dp"
+        app:srcCompat="@drawable/purplerepublic" />
+
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/imageView6"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginRight="2dp"
+        android:onClick="button"
+        app:srcCompat="@drawable/home1" />
+
+</RelativeLayout>

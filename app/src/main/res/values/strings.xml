@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">School Departments</string>
+    <string name="accommodation_usm">ACCOMMODATION USM</string>
+    <string name="text1">DESASISWA AMAN DAMAI FAJAR HARAPAN</string>
+    <string name="text2"><b>DESCRIPTION:</b> \n&#10022; Inside USM Main Campus near the Bukit Gambier entrance.\n&#10022; Combination of two Desasiswa which are Desasiswa Aman Damai and Desasiswa Fajar Harapan.\n&#10022; 8 blocks with 3 level of hostel blocks and 2 blocks with 4 level of hostel blocks.\n&#10022; Official Desasiswa for Kor Sukarelawan Polis Siswa/Siswi(SUKSIS).</string>
+    <string name="text3"><b>FELO AND ASSISTANT FELO:</b>\n&#10022; Tn Haji Mohd Zain Bin Dollah (mdzain@usm.my) \n&#10022; En. Mohd Zuaril Akimi Bin Mohd Shaari (mzakimi@usm.my)\n&#10022; Cik Fauziah Bt Rastam (rfauziah@usm.my)</string>
+    <string name="text4"><b>STUDENT ATTRACTION:</b><br/></string>
+    <string name="text5">&#10022; Cafeteria of Fajar Harapan.</string>
+    <string name="text6">&#10022; Tasek Fajar Harapan (Tasek Biawak).</string>
+    <string name="text7">&#10022; Cafeteria of Aman Damai.</string>
+
+    <string name="text8">DESASISWA RESTU SAUJANA TEKUN</string>
+    <string name="text9"><b>DESCRIPTION:</b>\n&#10022; Outside USM Campus near the Bukit Gambier entrance.\n&#10022; Combination of three Desasiswa which are Desasiswa Tekun, Desasiswa Restu and Desasiswa Saujana.\n&#10022; Desasiswa Saujana only have female student.\n&#10022; Have Pedestrian Bridge to get into campus or get buses.\n&#10022;Have 6 block of 10 level of hostel block form block M07 until M09.</string>
+    <string name="text10"><b>FELO AND ASSISTANT FELO:</b>\n&#10022; Ts. Dr. Shahrizal Bin Nazri(shahrizal@usm.my)\n&#10022; En Mohd Rashid Abdul Rejab (rashid_rejab@usm.my)\n&#10022; Puan Ezaleena Binti Mohd Khalid (ezza@usm.my)</string>
+    <string name="text11"><b>STUDENT ATTRACTION:</b></string>
+    <string name="text12">&#10022; Cafeteria of Saujana &#38; Restu.</string>
+    <string name="text13">&#10022; Cafeteria of Tekun</string>
+    <string name="text14">&#10022; D Tekun Bistro.</string>
+    <string name="text15">&#10022; Ivory.</string>
+
+    <string name="text16">DESASISWA BAKTI PERMAI CAHAYA GEMILANG</string>
+    <string name="text17"><b>DESCRIPTION:</b>\n&#10022; Inside USM Campus and closest entrance is Gelugor Entrance.\n&#10022; Combination of two Desasiswa which are Desasiswa Bakti Permai and Cahaya Gemilang.\n&#10022; 11 Block of hostel blocks.\n&#10022; Providing apartment based housing for married student which is 107 unit of apartment.</string>
+    <string name="text18"><b>FELO AND ASSISTANT FELO:</b>\n&#10022; Encik Mohd Jaya Bin Mohd Johan (jaya_johan@usm.my) \n&#10022; Encik Zulkifli Bin Che Hussin (zulkiflich@usm.my)</string>
+    <string name="text19"><b>STUDENT ATTRACTION:</b></string>
+    <string name="text20">&#10022; Cafeteria of Cahaya Gemilang.</string>
+    <string name="text21">&#10022; Cafeteria of Bakti Permai.</string>
+    <string name="text22">&#10022; The Kapits.</string>
+
+    <string name="text23">DESASISWA INDAH KEMBARA</string>
+    <string name="text24"><b>DESCRIPTION:</b>\n&#10022; Inside USM Campus and Near the Bukit Gambier entrance and close to the Padang Kawad.\n&#10022; 4 block of hostel block and 2 block of management and cafeteria.\n&#10022; Official hostel for Kor Pasukan Latihan Pegawai Simpanan (PALAPES) Darat Dan Laut.</string>
+    <string name="text25"><b>FELO AND ASSISTANT FELO:</b>\n&#10022; Puan Siti Hawa Mat Junoh (sitihawa@usm.my)\n&#10022; Encik Mohd Shaifull Yunus\n&#10022; Cik Hazwani Abdul Karim</string>
+    <string name="text26"><b>STUDENT ATTRACTION:</b><br/></string>
+    <string name="text27">&#10022; Cafeteria of Indah Kembara.</string>
+
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="page">Page</string>
+</resources>

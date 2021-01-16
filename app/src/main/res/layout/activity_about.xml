@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#C6B8DF"
+    tools:context=".about">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="13dp"
+            android:gravity="center"
+            android:text="ABOUT USM"
+            android:textColor="#000000"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView3"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:text="Universiti Sains Malaysia (USM) was first known as Universiti Pulau Pinang in 1969 as the second university in the country. It is among the oldest institutes of higher learning in Northern Malaysia. USM offers many courses ranges from science, engineering, education and so on. USM provides 3 Campus which is the Main Campus, Engineering Campus and Health Campus. This application will helps you know more about the Main Campus. USM motto is 'WE LEAD' in which we choose to make as the apps name. Current 2021 Vice-Chancellor of USM is Professor Dr. Faisal Rafiq Mahamd Adikan"
+            android:textSize="20dp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="500dp"
+            android:layout_height="200dp"
+            android:layout_below="@id/textView4"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="6dp"
+            android:contentDescription="Pictures Of USM Front Gate"
+            app:srcCompat="@drawable/usm_gate"
+            android:layout_alignParentLeft="true" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_below="@+id/imageView2"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="230dp"
+            android:layout_marginTop="2dp"
+            android:onClick="button"
+            app:srcCompat="@drawable/home1" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_below="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="CAMPUS ONLINE WEBSITE"
+            android:textColor="#000000"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/browser2"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/textView6"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="12dp"
+            android:background="#e1ff14"
+            android:drawablePadding="0dp"
+            android:padding="1dp"
+            android:onClick="browser2"
+            android:text="Campus Online"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_below="@+id/browser2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="ELEARNING WEBSITE"
+            android:textColor="#000000"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/browser3"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/textView7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="12dp"
+            android:background="#e1ff14"
+            android:drawablePadding="0dp"
+            android:padding="1dp"
+            android:onClick="browser3"
+            android:text="eLearning"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_below="@+id/browser3"
+            android:layout_marginTop="30dp"
+            android:layout_height="0dp"
+            android:layout_width="0dp" />
+    </RelativeLayout>
+</ScrollView>
